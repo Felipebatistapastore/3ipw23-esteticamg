@@ -213,3 +213,20 @@ header {
     text-align: center;
 }
 
+ul.sociais li{
+    display: inline-block;
+}
+
+ul.sociais li a{
+    color:#000
+}
+
+.contato input, .contato textarea{
+    width: 100%;
+    max-width: 350px;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border:none;
+    background-color:rgb(183, 179, 175);
+}
