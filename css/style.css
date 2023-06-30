@@ -186,12 +186,12 @@ header {
     text-align: justify;
 }
 .bgheader{
-    background: url(../img/carrossobre.png);
+    background: url(../img/carrossobre.webp);
     background-size: cover;
     background-repeat: no;
     height: 300px;
     margin: 20px;
-    background-position-y: -100px;
+    background-position-y: 600px;
 }
 
 .sidebar h1 {
